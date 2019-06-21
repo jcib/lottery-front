@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/VEZHGfG.png" height="128" width="128">
+<img src="https://i.imgur.com/VEZHGfG.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
